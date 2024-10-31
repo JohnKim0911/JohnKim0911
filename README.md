@@ -1,21 +1,17 @@
 ## ⚡ Skills
-- Back-end :
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![jsp](https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=jsp&logoColor=white)
-![Mybatis](https://img.shields.io/badge/Mybatis-F80000?style=for-the-badge&logo=&logoColor=white)
-- WAS : 
-![Mybatis](https://img.shields.io/badge/Apache_Tomcat_9.0-6DB33F?style=for-the-badge&logo=&logoColor=white)
-- DBMS : 
-![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-- Front-end : 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ajax](https://img.shields.io/badge/ajax-1572B6?style=for-the-badge&logo=ajax&logoColor=white)
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
+![jsp](https://img.shields.io/badge/JSP-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-F80000?style=flat&logo=&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Apache_Tomcat_9.0-6DB33F?style=flat&logo=&logoColor=white)
+![oracle](https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white)
 
+![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![ajax](https://img.shields.io/badge/AJAX-1572B6?style=flat&logo=ajax&logoColor=white)
 
 
 ## 🌱 Learning
