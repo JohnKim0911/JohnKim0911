@@ -1,16 +1,53 @@
 ## Hi there 👋
 
-<!--
-**JohnKim0911/JohnKim0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 자바 백엔드 주니어 개발자입니다. 😊
 
-Here are some ideas to get you started:
+## ⚡ Skills
+- Back-end : Java, JSP, Spring, Mybatis
+- WAS : Apache Tomcat 9.0
+- DBMS : Oracle
+- Front-end : HTML5, CSS3, JavaScript, jQuery, Ajax
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+
+<details>
+<summary>✅ 2024</summary>
+
+- 자바기반 공공데이터 융합 개발자 양성과정 / KH정보교육원
+- 김영한의 실전자바 / 인프런
+    - 스프링 (입문, 기본편)
+    - 자바 (입문, 기본, 중급 1&2편)
+- 왕초보를 위한 C언어 / KH정보교육원
+
+</details>
+
+
+<details>
+<summary>✅ 2023</summary>
+
+- 100 Days of Code: the Complete Python Pro Bootcamp / Udemy
+    - Python
+    - GUI desktop App
+    - Web Scraping
+    - Web Automation
+    - Web Development(Flask)
+    - Data Analysis
+
+</details>
+
+
+<details>
+<summary>✅ 2022</summary>
+
+- Legacy JavaScript Algorithms and Data Structure / freeCodeCamp
+    - JavaScript
+
+</details>
+
+<details>
+<summary>✅ 2021</summary>
+
+- Responsive Web Design / freeCodeCamp
+    - HTML5, CSS
+
+</details>
