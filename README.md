@@ -4,16 +4,18 @@
 - DBMS : Oracle
 - Front-end : HTML5, CSS3, JavaScript, jQuery, Ajax
 
+https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+
 ## 🌱 Learning
 
 <details>
 <summary>2024</summary>
 
 - 자바기반 공공데이터 융합 개발자 양성과정 / KH정보교육원
+- 왕초보를 위한 C언어 / KH정보교육원
 - 김영한의 실전자바 / 인프런
     - 스프링 (입문, 기본편)
     - 자바 (입문, 기본, 중급 1&2편)
-- 왕초보를 위한 C언어 / KH정보교육원
 
 </details>
 
