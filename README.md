@@ -1,8 +1,11 @@
 ## ⚡ Skills
-- Back-end : JSP, Mybatis
+- Back-end :
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- WAS : Apache Tomcat 9.0
+![jsp](https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=jsp&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-F80000?style=for-the-badge&logo=&logoColor=white)
+- WAS : 
+![Mybatis](https://img.shields.io/badge/Apache_Tomcat_9.0-6DB33F?style=for-the-badge&logo=&logoColor=white)
 - DBMS : 
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 - Front-end : 
@@ -10,7 +13,9 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ajax-8a2be2)
+![ajax](https://img.shields.io/badge/ajax-1572B6?style=for-the-badge&logo=ajax&logoColor=white)
+
+
 
 
 ## 🌱 Learning
