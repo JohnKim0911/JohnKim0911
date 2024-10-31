@@ -1,7 +1,3 @@
-## Hi there 👋
-
-안녕하세요! 자바 백엔드 주니어 개발자입니다. 😊
-
 ## ⚡ Skills
 - Back-end : Java, JSP, Spring, Mybatis
 - WAS : Apache Tomcat 9.0
@@ -11,7 +7,7 @@
 ## 🌱 Learning
 
 <details>
-<summary>✅ 2024</summary>
+<summary>2024</summary>
 
 - 자바기반 공공데이터 융합 개발자 양성과정 / KH정보교육원
 - 김영한의 실전자바 / 인프런
@@ -21,9 +17,8 @@
 
 </details>
 
-
 <details>
-<summary>✅ 2023</summary>
+<summary>2023</summary>
 
 - 100 Days of Code: the Complete Python Pro Bootcamp / Udemy
     - Python
@@ -35,9 +30,8 @@
 
 </details>
 
-
 <details>
-<summary>✅ 2022</summary>
+<summary>2022</summary>
 
 - Legacy JavaScript Algorithms and Data Structure / freeCodeCamp
     - JavaScript
@@ -45,7 +39,7 @@
 </details>
 
 <details>
-<summary>✅ 2021</summary>
+<summary>2021</summary>
 
 - Responsive Web Design / freeCodeCamp
     - HTML5, CSS
