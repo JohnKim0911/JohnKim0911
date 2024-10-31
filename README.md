@@ -20,10 +20,17 @@
 <summary>2024</summary>
 
 - 자바기반 공공데이터 융합 개발자 양성과정 / KH정보교육원
+    - Java
+    - OracleDB
+    - HTML
+    - CSS
+    - JavaScript
+    - JSP
+    - Spring
 - 왕초보를 위한 C언어 / KH정보교육원
 - 김영한의 실전자바 / 인프런
-    - 스프링 (입문, 기본편)
-    - 자바 (입문, 기본, 중급 1&2편)
+    - Spring (입문, 기본편)
+    - Java (입문, 기본, 중급 1&2편)
 
 </details>
 
@@ -45,7 +52,6 @@
 
 - Legacy JavaScript Algorithms and Data Structure / freeCodeCamp
     - JavaScript
-
 </details>
 
 <details>
@@ -53,5 +59,5 @@
 
 - Responsive Web Design / freeCodeCamp
     - HTML5, CSS
-
+    
 </details>
