@@ -1,10 +1,17 @@
 ## ⚡ Skills
-- Back-end : Java, JSP, Spring, Mybatis
+- Back-end : JSP, Mybatis
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - WAS : Apache Tomcat 9.0
-- DBMS : Oracle
-- Front-end : HTML5, CSS3, JavaScript, jQuery, Ajax
+- DBMS : 
+![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+- Front-end : 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ajax-8a2be2)
 
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 
 ## 🌱 Learning
 
